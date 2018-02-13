@@ -23,6 +23,6 @@ public class ArrayLists {
         names.add("Git");
         System.out.println(names.get(2));
         
-    }
+    } 
     
 }
