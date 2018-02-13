@@ -19,7 +19,9 @@ public class ArrayLists {
         // TODO code application logic here
         ArrayList<String> names = new ArrayList<String>();
         names.add("test");
-        
+        names.add("test2");
+        names.add("Git");
+        System.out.println(names.get(2));
         
     }
     
