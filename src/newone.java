@@ -10,5 +10,5 @@
  */
 public class newone {
     private String ohShit;
-    private String WhatDidYouDoNothing;
+    private String WhatDidYouDoNotssshing;
 }
