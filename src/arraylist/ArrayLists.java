@@ -21,7 +21,6 @@ public class ArrayLists {
         names.add("test");
         names.add("test2");
         names.add("Git");
-        Oh shit;
         System.out.println(names.get(2));
         
     } 
