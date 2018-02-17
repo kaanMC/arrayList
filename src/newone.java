@@ -10,4 +10,5 @@
  */
 public class newone {
     private String ohShit;
+    private String WhatDidYouDo;
 }
