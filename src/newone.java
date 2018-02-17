@@ -9,5 +9,5 @@
  * @author mucis
  */
 public class newone {
-    
+    private String ohShit;
 }
